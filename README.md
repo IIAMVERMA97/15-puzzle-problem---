@@ -6,7 +6,7 @@ Code of how to solve 15 puzzle problem in C programming
 #include<conio.h>
 
 int m=0,n=4;
-int cal(int temp[10][10],int t[10][10])
+ int cal(int temp[10][10],int t[10][10])
 {
 int i,j,m=0;
 for(i=0;i < n;i++)
